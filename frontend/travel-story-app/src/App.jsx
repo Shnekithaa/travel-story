@@ -7,7 +7,7 @@ import {
 import React from "react";
 
 import Login from "./pages/Auth/Login";
-import SignUp from "./pages/Auth/Signup";
+import SignUp from "./pages/Auth/SignUp";
 import Home from "./pages/Auth/Home/Home";
 
 const App = () => {
