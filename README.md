@@ -14,6 +14,6 @@
 - **Frontend**: React.js, HTML, CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: Google Auth, JSON Web Tokens (JWT)
+- **Authentication**: JSON Web Tokens (JWT)
 - **Version Control**: Git, GitHub
 
